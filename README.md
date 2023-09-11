@@ -1,3 +1,8 @@
+<h1 align="center"> hi 👋, I'm Gautam Singh </h1>
+# 💫 About Me:
+<img align="right" width = "300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 # 💫 About Me:
 I'm Currently Working on Machine learning/Tensor flow<br>I'm Currently Studying AI and Data Science at Pune University <br>I'm Looking to collaborate on Data Science/ ML projects<br><br>
 
